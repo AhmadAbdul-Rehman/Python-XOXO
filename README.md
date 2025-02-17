@@ -44,4 +44,4 @@ Please enter a value (0-8): 1
 
 ## 🚀 Run the Game  
 ```bash
-python tic_tac_toe.py
+python xoxo.py
